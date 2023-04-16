@@ -1,4 +1,5 @@
 import mine from "../../assets/imgs/Mine.jpg";
+import "./style.css";
 const Nav = () => {
   return (
     <>
